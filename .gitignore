@@ -20,3 +20,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.bak
+
+# Plan temporal que genera ejecutar.py
+pruebas/experimentacion/_ejecucion.jmx
